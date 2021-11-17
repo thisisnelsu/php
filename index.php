@@ -1,5 +1,5 @@
 <? php
 
- echo "nu peguei no teu pau";
+ echo "hello world!";
 
 ?>
