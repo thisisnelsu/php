@@ -1,5 +1,7 @@
 <? php
 
- echo "nu peguei no teu pau";
+ echo "boanoit fml";
+
+ echo "bomdia fml";
 
 ?>
